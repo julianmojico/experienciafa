@@ -69,3 +69,12 @@ Library/PackageCache/com.unity.burst/.Runtime/libburst-llvm-16.dylib filter=lfs 
 /Assets/Rocks[[:space:]]and[[:space:]]Boulders[[:space:]]2/Rocks/Source/Textures/Rockdetail8_nmp.tif filter=lfs diff=lfs merge=lfs -text
 /Assets/Rocks[[:space:]]and[[:space:]]Boulders[[:space:]]2/Rocks/Source/Textures/Rockdetail9.tif filter=lfs diff=lfs merge=lfs -text
 /Assets/Rocks[[:space:]]and[[:space:]]Boulders[[:space:]]2/Rocks/Source/Textures/Rockdetail9_nmp.tif filter=lfs diff=lfs merge=lfs -text
+/Assets/ExperienciaFA/Escenas/CuartoBlanco.unity filter=lfs diff=lfs merge=lfs -text
+/Assets/_Creepy_Cat/_ShowRoom_Vol[[:space:]]11/Effects/Misc[[:space:]]Effects/Textures/CandleFlame.tif filter=lfs diff=lfs merge=lfs -text
+/Assets/_Creepy_Cat/_ShowRoom_Vol[[:space:]]11/Scenes/SampleScene.unity filter=lfs diff=lfs merge=lfs -text
+/Assets/_Creepy_Cat/_ShowRoom_Vol[[:space:]]11/Textures/Hard_Surface_Metal_01.tif filter=lfs diff=lfs merge=lfs -text
+/Assets/_Creepy_Cat/_ShowRoom_Vol[[:space:]]11/Textures/Hard_Surface_Metal_02.tif filter=lfs diff=lfs merge=lfs -text
+/Assets/_Creepy_Cat/_ShowRoom_Vol[[:space:]]11/Textures/Hard_Surface_Metal_03.tif filter=lfs diff=lfs merge=lfs -text
+/Assets/_Creepy_Cat/_ShowRoom_Vol[[:space:]]11/Textures/MediumFlame03.tif filter=lfs diff=lfs merge=lfs -text
+/Blender[[:space:]]Archivos/Modular[[:space:]]Escena[[:space:]]3.blend filter=lfs diff=lfs merge=lfs -text
+/Blender[[:space:]]Archivos/Modular[[:space:]]Escena[[:space:]]3.blend1 filter=lfs diff=lfs merge=lfs -text
